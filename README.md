@@ -62,3 +62,12 @@ Note :- This will take some time to pull base kubernetes v1.26.1 images to start
 # minikube status
 
           Happy Learning 
+
+if you dont want to got manually with all the steps , You can use script to upgrade your minikube with the attached scripts.
+
+and run from your prompt.
+
+./minikube_upgrade.sh
+
+
+
